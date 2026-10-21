@@ -208,6 +208,9 @@ tempCodeRunnerFile.py
 # Ruff stuff:
 .ruff_cache/
 
+# Windows download metadata
+*:Zone.Identifier
+
 # PyPI configuration file
 .pypirc
 
