@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Anaconda project file browser database
+**/anaconda_projects/db/project_filebrowser.db
+**/anaconda_projects/db/project_filebrowser.db-journal
+**/anaconda_projects/db/project_filebrowser.db-wal
+**/anaconda_projects/db/project_filebrowser.db-shm
